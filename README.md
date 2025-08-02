@@ -1,5 +1,6 @@
-# Termux-UbuntuX86_64
-Resources Provided By
-https://github.com/EXALAB
+# Termux app/bin
 
-it like chroot different Architecture Using QEMU No root On Android Armhf/Aarch64
+## this lib file can runing on aarch64 of devices
+
+## 但是效率很低
+
